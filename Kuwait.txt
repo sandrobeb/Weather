@@ -1,0 +1,48 @@
+api.openweathermap.org/data/2.5/weather?q=Kuwait&APPID=91a4c82d2c8b4bfd11c12425b5edeedf
+
+
+
+{
+    "coord": {
+        "lon": -72.86,
+        "lat": -12.03
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10n"
+        }
+    ],
+    "base": "model",
+    "main": {
+        "temp": 294.21,
+        "pressure": 1011,
+        "humidity": 99,
+        "temp_min": 294.21,
+        "temp_max": 294.21,
+        "sea_level": 1011,
+        "grnd_level": 946
+    },
+    "wind": {
+        "speed": 0.33,
+        "deg": 72
+    },
+    "rain": {
+        "3h": 7.5
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1576049220,
+    "sys": {
+        "country": "PE",
+        "sunrise": 1576059616,
+        "sunset": 1576105751
+    },
+    "timezone": -18000,
+    "id": 3933104,
+    "name": "Kuwait",
+    "cod": 200
+}
